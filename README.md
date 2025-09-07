@@ -2,9 +2,6 @@
 <p align="center">
   <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG94ZXRoMWtwcWNoMW54ZnV6OWhieGw5eDY5bGUxazc3eTg4emNqcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPWXYMP4t2ODvzwOYk/giphy.gif"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-
 * 👂 My name is Ivan Toledo
 
 * 🌱 I’m currently learning Java
